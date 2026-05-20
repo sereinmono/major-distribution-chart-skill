@@ -1,8 +1,3 @@
-以下是精简后的纯文字版 Skill，将列名探测、专业识别、边界处理等决策权完全交给 Agent：
-
----
-
-```markdown
 # Skill: 专业分流成绩可视化分析（通用版）
 
 ## 触发条件
@@ -85,4 +80,3 @@
 
 ## 依赖
 pandas, openpyxl, matplotlib, seaborn, plotly, scipy, statsmodels, kaleido（可选）
-```
